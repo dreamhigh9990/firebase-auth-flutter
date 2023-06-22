@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467878422177",
+    "project_id": "gfire-app",
+    "storage_bucket": "gfire-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467878422177:android:6764c1074a9983afd472e0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467878422177-jg4h5rosshejp35uqqvkpptl6q7olpqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8JJR5UAe4O1dd7g5g8nAp6rztuER7mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467878422177-jg4h5rosshejp35uqqvkpptl6q7olpqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
